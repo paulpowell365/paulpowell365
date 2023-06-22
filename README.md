@@ -1,4 +1,4 @@
-<h1>Hi, I'm Paul! <br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Paul! <br/><a href="https://www.linkedin.com/in/paul-powell-4a11281a2/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
