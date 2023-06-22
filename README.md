@@ -5,7 +5,7 @@
 
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-[Google Cybersecurity certificate projects](https://github.com/paulpowell365/GoogleCybersecurityCertificate).
+(https://github.com/paulpowell365/GoogleCybersecurityCertificate).
   - <h2>Certifications</h2>
 <b>Google Cybersecurity Certificate</b>  
 <b>Topics Covered</b>
