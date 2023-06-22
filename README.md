@@ -2,7 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Project Topics:</h2>
 
-
+- <b>Conducting a Security Audit</b>
+- <b>Python</b>
+- <b>Python</b>
+- <b>Python</b>
 - <b>Python</b>
   - [(Google Cybersecurity certificate projects)](https://github.com/paulpowell365/GoogleCybersecurityCertificate).
  
