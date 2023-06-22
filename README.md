@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Project Topics:</h2>
 
 - <b>Conducting a Security Audit</b>
-- [(Security Audit Files)]https://github.com/paulpowell365/SecurityAudit.git
+- [(Security Audit Files)](https://github.com/paulpowell365/SecurityAudit.git)
 - <b>Python</b>
 - <b>Python</b>
 - <b>Python</b>
